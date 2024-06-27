@@ -43,7 +43,11 @@ Hello! I'm Georgi Tabanov, a student passionate about programming. I started wit
 <a href="https://www.credly.com/badges/644cf5ac-97d5-4dd0-b46c-a69ad4e1c44f"><img src="https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" alt="Microsoft Office Specialist Word" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/114f4344-bab3-41fd-8d30-018fca3a26a9"><img src="https://images.credly.com/size/110x110/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" alt="Microsoft Office Specialist Excel" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/592262a4-5e84-4508-b6d4-da4829e15205"><img src="https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" alt="IT Specialist JS" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/1d4fa3c5-a5b7-4258-8d94-0acfcfd7eba6"><img src="https://images.credly.com/size/340x340/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="Badge" width="100" height="100">
+<a href="https://www.credly.com/badges/1d4fa3c5-a5b7-4258-8d94-0acfcfd7eba6"><img src="https://images.credly.com/size/340x340/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="App development with Swift" width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/13839838-8422-48f5-990a-0d094ac7958a/"><img src="https://images.credly.com/size/110x110/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" alt="Software devolopment" width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/742f58b0-3632-4a04-85c1-23e0ec478947/"><img src="https://images.credly.com/size/110x110/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python" width="100" height="100">
 </a>
 ---
 
