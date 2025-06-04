@@ -1,9 +1,5 @@
 # Georgi Tabanov
 
-### 🌟 Student
-
----
-
 ### About Me
 
 Hello! I'm Georgi Tabanov, a student passionate about programming. I started with C++ and now I'm learning C# and SQL.
@@ -34,7 +30,7 @@ Hello! I'm Georgi Tabanov, a student passionate about programming. I started wit
 
 ### 📚 Education
 
-- Currently studying at VSCPI.
+- Graduated from VSCPI.
 
 ---
 
